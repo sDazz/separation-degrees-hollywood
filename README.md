@@ -2,7 +2,7 @@
 
 Code that checks how many degrees of separation a given Hollywood actor is from another.
 
-A breath first search algorithm.
+A breadth first search algorithm.
 
 ** Example **
 
